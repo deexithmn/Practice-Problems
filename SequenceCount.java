@@ -1,4 +1,4 @@
-/* Count the characters repeated in a given string*/
+/* Count the characters repeated in a given string consecutively*/
 
 package com.company;
 
