@@ -1,2 +1,2 @@
 # Practice-Problems
-Solutions for some basic problems in Java
+Solutions for interview problems in Java and JavaScript
